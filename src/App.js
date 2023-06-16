@@ -24,6 +24,7 @@ import {Footer} from "./Components/Footer/Footer";
 import {Header} from "./Components/Header/Header";
 import {RoutesPage} from "./Pages/RoutesPage/RoutesPage";
 import {Documentation} from "./Pages/Documentation/Documentation";
+import {TryKNIME} from "./Pages/TryKNIME/TryKNIME";
 
 function App() {
     const anchors = document.querySelectorAll('a[href^="#"]')
@@ -177,7 +178,8 @@ function App() {
                 <Route path={'/'} element={<Main/>}/>
                 <Route path={'/routes'} element={<RoutesPage setSearchValue={setSearchValue} trimText={trimText} searchValue={searchValue} news={news} filteredValue={filteredValue}/>}/>
                 <Route path={'/routes/news/:id'} element={<News searchValue={searchValue} setSearchValue={setSearchValue} navigate={navigate} news={news}/>}/>
-                <Route path={'/documentation'} element={<Documentation/>}/>
+                <Route path={'/documentation'} element={<Documentation />} />
+                <Route path={'/tryKNIME'} element={<TryKNIME />} />
             </Routes>
             <Footer/>
         </div>

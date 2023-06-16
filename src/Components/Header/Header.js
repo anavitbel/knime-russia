@@ -24,8 +24,8 @@ export const Header = ({navigate, searchValue, setSearchValue}) => {
                                     </Link>
                                 </li>
                                 <li className="nav-item">
-                                    <Link class={location.pathname === '/subscription' ? 'nav-btn-blue' : 'nav-btn-grey'} to={'/subscription'}>
-                                        Попробовать KNIME
+                                    <Link class={location.pathname === '/tryKNIME' ? 'nav-btn-blue' : 'nav-btn-grey'} to={'/tryKNIME'}>
+                                        Пример работы
                                     </Link>
                                 </li>
                                 <li className="nav-item">
