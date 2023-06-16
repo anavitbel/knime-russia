@@ -1,0 +1,196 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Merriweather&display=swap');
+
+.sec-1 {
+    vertical-align: middle;
+    background-size: cover;
+    background-position: 50% 50%;
+    background-image: url("../../img/background.png");
+}
+
+.div-sec-1 {
+    display: table;
+    margin: 0 auto;
+    width: 1140px;
+    height: 703px;
+}
+
+.title-with-button {
+    width: 570px;
+    margin: 200px auto 0 41px;
+}
+
+.titleMain {
+    padding-top: 15px;
+    text-align: left;
+    height: 269px;
+}
+
+.h2-title {
+    font-family: 'Merriweather', sans-serif;
+    margin: 36px 0 0;
+    font-weight: 400;
+}
+
+.subtitle {
+    margin-left: 28px;
+    text-align: left;
+    margin: 24px 50px 0 0;
+    font-size: 1.125rem;
+    line-height: 1.6;
+    word-wrap: break-word;
+}
+
+
+.download-btn {
+    border-color: #000000;
+    border-style: solid;
+    border-width: 2px;
+    color: #000000;
+    display: table;
+    font-weight: 700;
+    margin: 30px 0px 3px 3px;
+    padding: 10px 30px;
+    text-transform: uppercase;
+}
+
+.download-btn:hover {
+    color: #f1c50e;
+    border-color: #f1c50e;
+}
+.install-btn {
+    margin: -53px auto 10px 155px;
+    display: table;
+    padding: 14px 30px;
+    color: #ffffff !important;
+    background-color: #000000 !important;
+    font-size: 0.875rem;
+}
+/* Секция 2 */
+.sec-2 {
+    display: table;
+    background-color: #ffdb15;
+    width: 100%;
+}
+
+.text-2 {
+    text-align: center;
+    font-size: 1.5rem;
+    width: 717px;
+    margin: 44px auto;
+}
+
+/* Секция 3 */
+.sec-3 {
+    background-color: #f2f2f2;
+}
+
+.div-sec-3 {
+    display: table;
+    position: relative;
+    margin: 0 auto;
+    width: 1140px;
+}
+
+h3 {
+    font-family: 'Open Sans', sans-serif;
+    display: table;
+    align-self: flex-start;
+    width: -webkit-fit-content;
+    width: fit-content;
+    width: -moz-fit-content;
+    color: #4d4d4d;
+    font-weight: 700;
+    margin: 93px auto 0;
+}
+
+.create-and-product {
+    margin-top: 65px;
+    display: grid;
+    height: 450px;
+    grid-template-columns: 50% 50%;
+}
+
+.grey-line {
+    border-width: 2px;
+    border-color: #e5e5e5;
+    border-style: solid;
+    width: 473px;
+    transform-origin: left center 0px;
+    margin: 24px auto 0;
+}
+
+.create {
+    background-color: #f2f2f2;
+    height: 30px;
+    width: 143px;
+    margin: -16px auto 0;
+    color: #4d4d4d;
+}
+
+    .create p {
+        width: fit-content;
+        font-weight: 800;
+        margin: 1px auto 0;
+    }
+
+.repeater {
+    width: 100% !important;
+    margin-top: -375px;
+    display: grid;
+    grid-gap: 10px 10px;
+    grid-template-columns: calc(25% - 7.5px) calc(25% - 7.5px) calc(25% - 7.5px) calc(25% - 7.5px);
+    height: 375px;
+}
+
+.rep-col {
+    padding: 9px 10px;
+    background-color: #ffffff;
+    height: 270px;
+    width: 200px;
+    margin: 10px auto;
+}
+
+.quadro-text {
+    text-align: center;
+    color: #4d4d4d;
+    font-weight: 700;
+    margin: 10px auto;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.rep-col img {
+    text-align: center;
+    width: 139px;
+    height: 139px;
+    margin: 13px auto 0 auto;
+    display: block;
+    vertical-align: middle;
+}
+
+.descp-text {
+    text-align: center;
+    font-size: 14px;
+    color: #4d4d4d;
+    font-family: 'Open Sans', sans-serif;
+    margin: 5px;
+}
+
+/* Секция 4 */
+.div-sec-4 {
+    display: flex;
+    margin: 20px auto 20px auto;
+    width: 1140px;
+}
+
+.sys-text {
+    width: 300px;
+    padding: 30px;
+    
+}
+
+.sys-list {
+    margin: 20px 0 0 0;
+    font-size: 16px;
+}
