@@ -1,0 +1,19 @@
+<svg width="70" height="70" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="drag-ghost">
+
+ <g>
+  <title>Layer 1</title>
+  <g stroke="null" id="svg_9">
+   <g stroke="null" id="svg_1">
+    <path stroke="null" id="svg_2" class="bg" fill="#2B94B1" d="m15.91232,57.32866l0,-43.83224c0,-2.49047 2.15841,-4.64887 4.64887,-4.64887l43.66621,0c2.6565,0 4.81491,2.15841 4.81491,4.64887l0,43.66621c0,2.6565 -2.15841,4.64887 -4.64887,4.64887l-43.83224,0c-2.49047,0.16603 -4.64887,-1.99237 -4.64887,-4.48284z"/>
+    <!---->
+    <image stroke="null" id="svg_3" pointer-events="none" height="26.56499" width="26.56499" y="22.13004" x="29.19482" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAABOSURBVHgB1ZOxDQAgCATRQYhzaOH+U2ksbDBG4G242pwHCVSYB0ImkECC3qpOcHsIF7gFr6J/BdbZDwFcINEWuQv2B2aBLIN3kNY5E8AEUbpDhI+Lz+AAAAAASUVORK5CYII="/>
+   </g>
+   <polygon stroke="#201E1E" id="svg_4" stroke-width="1.4px" fill="#201E1E" points="2.1317296028137207,29.821645617485046 13.313520431518555,35.412540316581726 2.1317296028137207,41.003440737724304 "/>
+   <g stroke="null" id="svg_5">
+    <circle stroke="null" id="svg_6" cy="53.67597" cx="22.55357" r="1.99238"/>
+    <circle stroke="null" id="svg_7" cy="53.67597" cx="30.85513" r="1.99237"/>
+    <circle stroke="null" id="svg_8" cy="53.67597" cx="39.15669" r="1.99237"/>
+   </g>
+  </g>
+ </g>
+</svg>

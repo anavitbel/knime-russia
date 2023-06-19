@@ -1,0 +1,20 @@
+<svg width="70" height="70" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="drag-ghost">
+
+ <g>
+  <title>Layer 1</title>
+  <g stroke="null" transform="translate(5 6)" id="svg_10">
+   <g stroke="null" id="svg_1">
+    <path stroke="null" id="svg_2" class="bg" fill="#FFD800" d="m8.2581,46.32378l0,-37.41593c0,-2.12591 1.84245,-3.96836 3.96836,-3.96836l37.2742,0c2.26763,0 4.11008,1.84245 4.11008,3.96836l0,37.2742c0,2.26763 -1.84245,3.96836 -3.96836,3.96836l-37.41593,0c-2.12591,0.14173 -3.96836,-1.70072 -3.96836,-3.82663z"/>
+    <!---->
+    <image stroke="null" id="svg_3" pointer-events="none" height="22.67632" width="22.67632" y="16.27765" x="19.59626" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAAZiS0dEAP8A/wD/oL2nkwAAAAlwSFlzAAALEwAACxMBAJqcGAAAAAd0SU1FB9gEGxE4IQYzJ14AAAI3SURBVDjLZZNPSFVBFIe/e9+zd3silBCl0SZoU4s2rVq0EB5tQip4UNvATVGu3QRBiyAi2iltWkgbF5EgRhFFRpiWtrWIzDIV1Pzz7p15M2fmtvDevOqBw8DM9zvnN8ycgF3R/eDtM2mac96ZdrFNxBikqbRV+vHH/ut9gAZczoe7C3gnF0f6au1OLM5avFi8d1Ea+JvAMSAq8nsKOGs5f2cYJ3Y7rc2PO4BqkS8DdD98f9tbe1ysCoxOBo1qlEXHJWcM4b5KPU19zleA0o4Clx99eO3EdqVewHsCoFRugUoVghJO7A6H6Vx9wdtYi27cr5x6dy/03nVtWTU7bWeZh6jNUcAiCaFTURl9A+gs56AviHzh3mnqtdPxm6knfQPLU7UaokASQq/agY7yDrG16Mba6Pz48NP56VdrgAApYObGaicPtkovToFLQBKA/WUxTe3FRk4san15aGKgd3Dj560rrdGJS6FT0X9YYvLuiMKL1kAQOpHZ3PqfyZfP41+9PW1VfzX0RXFSECfgNEmSTgImdDruF2O0E8vvqZG1auQubAsKooIYYHpGvwA2g+xndQBHgWa6cG0ih5cW/w6VvEq3nChwCoBvs+bL2Z7VceBHGTDAIrABpMVuhw+4OiLgLIglOLPYBTQAlfErIeCzjRVg1dtEb1kt5Omv+DTV2YssAN+zNdkzC42N9brV8WdvYp07seOdM2Of1F3AAknW0AJpwN6IgEPAEaANaMlcbmZdl7KRBuAfAb+v//yMAJoAAAAASUVORK5CYII="/>
+   </g>
+   <polygon stroke="#201E1E" id="svg_4" stroke-width="1.4px" fill="#201E1E" points="-3.505241870880127,22.843326694319785 6.0397216468686565,27.61580944374191 -3.505241870880127,32.38829021206857 "/>
+   <polygon stroke="#201E1E" id="svg_5" stroke-width="1.4px" fill="#201E1E" points="54.60283235271106,22.843326694319785 64.14780181374624,27.61580944374191 54.60283235271106,32.38829021206857 "/>
+   <g stroke="null" id="svg_6">
+    <circle stroke="null" id="svg_7" cy="43.20578" cx="13.92718" r="1.70072"/>
+    <circle stroke="null" id="svg_8" cy="43.20578" cx="21.01353" r="1.70072"/>
+    <circle stroke="null" id="svg_9" cy="43.20578" cx="28.09988" r="1.70072"/>
+   </g>
+  </g>
+ </g>
+</svg>

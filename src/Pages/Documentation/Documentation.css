@@ -1,0 +1,46 @@
+.readBtn {
+    padding: 10px 30px;
+    display: inline-block;
+    color: #111111;
+    background-color: #ffdb15;
+    border-radius: 50px;
+    font-size: 14px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    padding: 10px 30px;
+}
+.readBtn:hover {
+    color: #ffffff;
+    background-color: #4d4d4d;
+}
+/*  Секция 1 */
+.main-title-sec {
+    width:1000px;
+    color: #111111;
+    background-color: #ffffff;
+    height: 251px;
+    margin: 80px auto 0 auto;
+
+}
+.title-knime {
+    text-align: left;
+    color: #404040;
+    font-size: 3.75rem;
+    font-weight: 700;
+    line-height: 1.2;
+}
+/* Секция 2*/
+.guide-list-sec {
+    color: #111111;
+    background-color: #f2f2f2;
+    height: 366px;
+}
+.guide-list-div {
+    width: 1013px;
+    margin: 30px auto 0 auto;
+}
+.table-list {
+    border-collapse: collapse;
+    display: block;
+    padding: 20px 0 0 0;
+}
