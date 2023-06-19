@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/knime-russia/static/css/main.d9681f1c.css",
+    "main.js": "/knime-russia/static/js/main.c562ad61.js",
+    "static/js/787.cfcfa6ca.chunk.js": "/knime-russia/static/js/787.cfcfa6ca.chunk.js",
+    "static/media/background.png": "/knime-russia/static/media/background.ccb30cbe96b21bd026f3.png",
+    "static/media/PDFParser.svg": "/knime-russia/static/media/PDFParser.eb667a67274a4e209bda812a2c57bcd0.svg",
+    "static/media/jsonReader.svg": "/knime-russia/static/media/jsonReader.1c701442461e18b319fb742d9ce3d5a9.svg",
+    "static/media/cellSplitter.svg": "/knime-russia/static/media/cellSplitter.16815100c7c702a2bfe9ab8ec40c9626.svg",
+    "static/media/csvReader.svg": "/knime-russia/static/media/csvReader.56ac458d43e65677ed2e7ffba991af30.svg",
+    "static/media/stringManipulation.svg": "/knime-russia/static/media/stringManipulation.f078afdc5b65f6d2965c44834fbb64c4.svg",
+    "static/media/groupBy.svg": "/knime-russia/static/media/groupBy.89a25cc70ebb44b28cd2d054a3862670.svg",
+    "static/media/pythonScript.svg": "/knime-russia/static/media/pythonScript.16d73ffeebeda950ba005ec56f34b27e.svg",
+    "static/media/tableManipulator.svg": "/knime-russia/static/media/tableManipulator.dd71cc9e91a25c36c99fe1d3a9ff06e6.svg",
+    "static/media/linePlot.svg": "/knime-russia/static/media/linePlot.1983a16c025e8f67dc656763978ebe7a.svg",
+    "static/media/excelReader.svg": "/knime-russia/static/media/excelReader.322f494b03e2ce3d08467687de4cc038.svg",
+    "static/media/Rank.svg": "/knime-russia/static/media/Rank.a690dbc6042f6c01f01eee27570fa845.svg",
+    "static/media/barChart.svg": "/knime-russia/static/media/barChart.18c86edcd81d85ba8b0a3743357c7ea3.svg",
+    "index.html": "/knime-russia/index.html",
+    "static/media/search.svg": "/knime-russia/static/media/search.46f83f6bbf60bc904bb85857bf65b5ea.svg",
+    "main.d9681f1c.css.map": "/knime-russia/static/css/main.d9681f1c.css.map",
+    "main.c562ad61.js.map": "/knime-russia/static/js/main.c562ad61.js.map",
+    "787.cfcfa6ca.chunk.js.map": "/knime-russia/static/js/787.cfcfa6ca.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d9681f1c.css",
+    "static/js/main.c562ad61.js"
+  ]
+}

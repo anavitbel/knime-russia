@@ -1,0 +1,18 @@
+<svg width="70" height="70" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="drag-ghost">
+
+ <!---->
+ <g>
+  <title>Layer 1</title>
+  <g stroke="null" id="svg_8">
+   <g stroke="null" id="svg_1">
+    <path stroke="null" id="svg_2" class="bg" fill="#2B94B1" d="m12.62439,52.92858l0,-36.30523c0,-2.0628 1.78776,-3.85055 3.85055,-3.85055l36.16771,0c2.20032,0 3.98807,1.78776 3.98807,3.85055l0,36.16771c0,2.20032 -1.78776,3.85055 -3.85055,3.85055l-36.30523,0c-2.0628,0.13752 -3.85055,-1.65024 -3.85055,-3.71304z"/>
+    <!---->
+    <image stroke="null" id="svg_3" pointer-events="none" height="22.00317" width="22.00317" y="23.77438" x="23.62598" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAAsSAAALEgHS3X78AAAAu0lEQVQ4jcWTURHDIBBEN53+EwfBARKwEAfgIBKQAg6QgITEAXGAhO1XmaTpdAr96H7dzbDvbvaGAQBJole3buevgH3fa81WlVI4TRO99+wCOOeoteYzvCZzzpkAuK5rH0BrzWVZat8EiDFSCMFSymeAMYZCCDrn6uNjcEfdX89jrcW2bQghIIQAKSXmecY4jpBSwlp7OelpslLqtGLOmcaYU3BHVcA78zcCAKaUuswkOeDfn2kA0D8ewAMiHQj0VMVOEgAAAABJRU5ErkJggg=="/>
+   </g>
+   <polygon stroke="#201E1E" id="svg_4" stroke-width="1.4px" fill="#201E1E" points="1.2102454900741577,15.705577611923218 10.47186553478241,20.336387395858765 1.2102454900741577,24.967199087142944 "/>
+   <polygon stroke="#201E1E" id="svg_5" fill-opacity="0" stroke-width="1.4px" fill="#000000" points="1.2102454900741577,44.584739446640015 10.47186553478241,49.21554923057556 1.2102454900741577,53.84635901451111 "/>
+   <rect stroke="#41BE78" id="svg_6" stroke-width="1.4px" fill="#41BE78" y="15.11063" x="57.59337" height="10.45151" width="10.45151"/>
+   <polygon stroke="#201E1E" id="svg_7" stroke-width="1.4px" fill="#201E1E" points="57.59337031841278,44.584739446640015 66.85499370098114,49.21554923057556 57.59337031841278,53.84635901451111 "/>
+  </g>
+ </g>
+</svg>
